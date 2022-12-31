@@ -1,0 +1,118 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+void main()
+{
+	
+	int k;
+	cout << "Enter the digit: " << endl;
+	cin >> k;
+    switch (k)
+    {
+	case 1:
+
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 2:
+	
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+
+	case 3:
+
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 4:
+
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 5:
+		
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 6:
+	
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 7:
+		
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 8:
+
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	case 9:
+	
+		cout << k * 2 << "\n";
+		cout << k * 3 << "\n";
+		cout << k * 4 << "\n";
+		cout << k * 5 << "\n";
+		cout << k * 6 << "\n";
+		cout << k * 7 << "\n";
+		cout << k * 8 << "\n";
+		cout << k * 9 << "\n";
+		break;
+	default:
+		cout << "Error" <<endl;
+		break;
+	}
+}
